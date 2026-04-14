@@ -1,15 +1,15 @@
 /* Variables de color y tipografía */
 :root {
-  --primary-color: #2563eb;
-  --secondary-color: #1e40af;
+  --primary-color: #0f172a;
+  --secondary-color: #1e293b;
   --accent-color: #3b82f6;
-  --text-primary: #1f2937;
-  --text-secondary: #6b7280;
-  --bg-light: #f9fafb;
+  --text-primary: #0f172a;
+  --text-secondary: #64748b;
+  --bg-light: #f8fafc;
   --bg-white: #ffffff;
-  --border-color: #e5e7eb;
-  --shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.1);
+  --border-color: #e2e8f0;
+  --shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 20px 40px rgba(0, 0, 0, 0.12);
 }
 
 /* Reset y estilos base */
