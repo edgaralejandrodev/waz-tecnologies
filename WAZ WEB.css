@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(53, 0, 188);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 24;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 18;
+}
+section.card{
+    background-color: rgb(46, 91, 183);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+}
+nav{
+   background-color: rgb(7, 37, 94);
+   display: flex;
+   justify-content: space-around;
+   text-align: right;
+
+}
+section.card a{
+    background-color: rgb(46, 91, 183);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+}
+section.card a:hover{
+    background-color: rgb(7, 37, 94);
+   border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+}
+aside{
+    background-color: rgb(7, 37, 94);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+}
